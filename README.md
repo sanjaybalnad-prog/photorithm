@@ -1,5 +1,5 @@
 # Photorithm - AI-Powered Image Transformation Platform
-
+fgg
 A Next.js application that leverages AI to transform images with features like background removal, object removal, color adjustments, and more. Built with modern web technologies and integrated with Cloudinary for image processing.
 
 ## Features
